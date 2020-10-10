@@ -10,3 +10,7 @@
 ### Also you can find me on other place
 - [Read My Blog](https://medium.com/@eneskayiklik)
 - [Like my awesome photos. (Not mine, taken by me)](https://www.instagram.com/eneskayiklik/)
+
+<p align="center">
+	<img src=https://github-readme-stats.vercel.app/api?username=Enes-Kayiklik&show_icons=true alt=Elangovan />
+</p>
