@@ -1,6 +1,6 @@
 ### Hello, Enes here! 👋
 
-[![HitCount](http://hits.dwyl.com/Enes-Kayiklik/Enes-Kayiklik.svg)](http://hits.dwyl.com/Enes-Kayiklik/Enes-Kayiklik)
+![ViewCount](https://views.whatilearened.today/views/github/Enes-Kayiklik/Enes-Kayiklik.svg)
 
 - 🔭 I’m currently working on [PediApp-Çocuk Doktorunuz](https://play.google.com/store/apps/details?id=com.enes.bilyon)
 - 🌱 I’m currently learning Android Development using Kotlin Language. Actually i love Kotlin because it is very easy compare to Java and very powerful.
