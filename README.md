@@ -3,21 +3,21 @@ I'm currently a Android Developer at <strong><a href="https://yoorbit.com/">Yoor
 
 ##  🛠 Tools I Use
 <p align="left">
-<a href=""><img src="https://img.shields.io/badge/-Kotlin-8052FF?style=flat-square&labelColor=white&logo=Kotlin" alt="Mail"></a> 
-<a href=""><img src="https://img.shields.io/badge/-Jetpack Compose-4185F3?style=flat-square&labelColor=white&logo=JetpackCompose" alt="Mail"></a> 
-<a href=""><img src="https://img.shields.io/badge/-Android-A4C639?style=flat-square&labelColor=white&logo=Android" alt="Android"></a> 
-<a href=""><img src="https://img.shields.io/badge/-Solidity-1C1C1C?style=flat-square&labelColor=black&logo=Solidity" alt="Solidity"></a> 
+<a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/-Kotlin-8052FF?style=flat-square&labelColor=EEF1F2&logo=Kotlin" alt="Mail"></a> 
+<a href="https://developer.android.com/jetpack/compose"><img src="https://img.shields.io/badge/-Jetpack Compose-4185F3?style=flat-square&labelColor=EEF1F2&logo=JetpackCompose" alt="Mail"></a> 
+<a href="https://www.android.com/"><img src="https://img.shields.io/badge/-Android-A4C639?style=flat-square&labelColor=EEF1F2&logo=Android" alt="Android"></a> 
+<a href="https://docs.soliditylang.org/en/v0.8.13/"><img src="https://img.shields.io/badge/-Solidity-1C1C1C?style=flat-square&labelColor=black&logo=Solidity" alt="Solidity"></a> 
 </p>
 
 ## 📝 Contact Me
 <p>
-<a href="mailto:eneskayiklik@gmail.com"><img src="https://img.shields.io/badge/-eneskayiklik@gmail.com-F2A60C?style=flat-square&labelColor=white&logo=Gmail&link=mailto:eneskayiklik@gmail.com" alt="Mail"></a> 
+<a href="mailto:eneskayiklik@gmail.com"><img src="https://img.shields.io/badge/-eneskayiklik@gmail.com-F2A60C?style=flat-square&labelColor=EEF1F2&logo=Gmail&link=mailto:eneskayiklik@gmail.com" alt="Mail"></a> 
 <a href="https://medium.com/@eneskayiklik"><img src="https://img.shields.io/badge/-@eneskayiklik-14c767?style=flat-square&labelColor=14c767&logo=Medium&link=https://medium.com/@eneskayiklik" alt="Medium"></a>
 <a href="https://www.linkedin.com/in/eneskayiklik/"><img src="https://img.shields.io/badge/-@eneskayiklik-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&link=https://www.linkedin.com/in/eneskayiklik/" alt="LinkedIn"></a>
-<a href="https://stackoverflow.com/users/13447094/enes-kay%C4%B1kl%C4%B1k"><img src="https://img.shields.io/badge/-@eneskayiklik-orange?style=flat-square&labelColor=white&logo=Stackoverflow&link=https://stackoverflow.com/users/13447094/enes-kay%C4%B1kl%C4%B1k" alt="Stackoverflow"></a> 
-<a href="https://codeforces.com/profile/eneskayiklik"><img src="https://img.shields.io/badge/-@eneskayiklik-0077B5?style=flat-square&labelColor=white&logo=Codeforces&link=https://codeforces.com/profile/eneskayiklik" alt="Codeforces"></a> 
-<a href="https://www.hackerrank.com/eneskayiklik?hr_r=1"><img src="https://img.shields.io/badge/-@eneskayiklik-1ED760?style=flat-square&labelColor=white&logo=Hackerrank&link=https://www.hackerrank.com/eneskayiklik?hr_r=1" alt="Hackerrank"></a> 
-<a href="https://www.instagram.com/eneskayiklik"><img src="https://img.shields.io/badge/@eneskayiklik-F77737?style=flat-square&labelColor=white&logo=Instagram&link=https://www.instagram.com/eneskayiklik" alt="Instagram"></a>
+<a href="https://stackoverflow.com/users/13447094/enes-kay%C4%B1kl%C4%B1k"><img src="https://img.shields.io/badge/-@eneskayiklik-orange?style=flat-square&labelColor=EEF1F2&logo=Stackoverflow&link=https://stackoverflow.com/users/13447094/enes-kay%C4%B1kl%C4%B1k" alt="Stackoverflow"></a> 
+<a href="https://codeforces.com/profile/eneskayiklik"><img src="https://img.shields.io/badge/-@eneskayiklik-0077B5?style=flat-square&labelColor=EEF1F2&logo=Codeforces&link=https://codeforces.com/profile/eneskayiklik" alt="Codeforces"></a> 
+<a href="https://www.hackerrank.com/eneskayiklik?hr_r=1"><img src="https://img.shields.io/badge/-@eneskayiklik-1ED760?style=flat-square&labelColor=EEF1F2&logo=Hackerrank&link=https://www.hackerrank.com/eneskayiklik?hr_r=1" alt="Hackerrank"></a> 
+<a href="https://www.instagram.com/eneskayiklik"><img src="https://img.shields.io/badge/@eneskayiklik-F77737?style=flat-square&labelColor=EEF1F2&logo=Instagram&link=https://www.instagram.com/eneskayiklik" alt="Instagram"></a>
 <a href="https://views.whatilearened.today/views/github/Enes-Kayiklik/Enes-Kayiklik.svg"><img src="https://views.whatilearened.today/views/github/Enes-Kayiklik/Enes-Kayiklik.svg" alt="View Count"></a>
 </p>
 
@@ -57,6 +57,6 @@ I'm currently a Android Developer at <strong><a href="https://yoorbit.com/">Yoor
   </tbody>
 </table>
 
-<p align="center">
+<p align="left">
     <img src=https://github-readme-stats.vercel.app/api?username=Enes-Kayiklik&show_icons=true alt=Elangovan />
 </p>
