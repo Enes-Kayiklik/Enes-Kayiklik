@@ -58,5 +58,6 @@ I'm currently a Android Developer at <strong><a href="https://yoorbit.com/">Yoor
 </table>
 
 <p align="left">
-    <img src=https://github-readme-stats.vercel.app/api?username=Enes-Kayiklik&show_icons=true alt=Elangovan />
+    <img align="center" width="47%" src=https://github-readme-stats.vercel.app/api?username=Enes-Kayiklik&show_icons=true alt=Elangovan />
+    <img align="center" width="47%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Enes-Kayiklik&layout=compact alt=Elangovan />
 </p>
