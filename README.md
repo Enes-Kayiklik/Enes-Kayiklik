@@ -22,7 +22,14 @@ I'm currently a Android Developer at <strong><a href="https://yoorbit.com/">Yoor
 </p>
 
 <h3> 🚧 Open source projects</h3>
-<table>
+<div align=center>
+  <a href="https://github.com/Enes-Kayiklik/KOU-Social"><img width=150 src="https://github.com/Enes-Kayiklik/KOU-Social/blob/master/screenshots/posts.png?raw=true"></a>
+  <a href="https://github.com/Enes-Kayiklik/KOU-Social"><img width=150 src="https://github.com/Enes-Kayiklik/KOU-Social/blob/master/screenshots/meal_list.png?raw=true"></a>
+  <a href="https://github.com/Enes-Kayiklik/Wall-Up"><img width=150 src="https://github.com/Enes-Kayiklik/Wall-Up/blob/master/screenshots/home_screen.jpg?raw=true"></a>
+  <a href="https://github.com/Enes-Kayiklik/Wall-Up"><img width=150 src="https://github.com/Enes-Kayiklik/Wall-Up/blob/master/screenshots/detail_screen.jpg?raw=true"></a>
+</div>
+
+<table align=center>
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
@@ -64,7 +71,7 @@ I'm currently a Android Developer at <strong><a href="https://yoorbit.com/">Yoor
   </tbody>
 </table>
 
-<p align="left">
-    <img align="center" width="47%" src=https://github-readme-stats.vercel.app/api?username=Enes-Kayiklik&show_icons=true alt=Elangovan />
-    <img align="center" width="47%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Enes-Kayiklik&layout=compact alt=Elangovan />
+<p align="center">
+    <img align="center" src=https://github-readme-stats.vercel.app/api?username=Enes-Kayiklik&show_icons=true&theme=radical />
+    <img align="center" src=https://github-readme-streak-stats.herokuapp.com/?user=Enes-Kayiklik&theme=radical />
 </p>
