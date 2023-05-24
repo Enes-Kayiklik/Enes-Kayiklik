@@ -71,7 +71,17 @@ I'm currently a Android Developer at <strong><a href="https://yoorbit.com/">Yoor
   </tbody>
 </table>
 
-<p align="center">
-    <img align="center" src=https://github-readme-stats.vercel.app/api?username=Enes-Kayiklik&show_icons=true&theme=radical />
-    <img align="center" src=https://github-readme-streak-stats.herokuapp.com/?user=Enes-Kayiklik&theme=radical />
-</p>
+<table>
+    <tr>
+        <td colspan="2" rowspan="2">
+        <a href="https://github-readme-stats.vercel.app/api?username=Enes-Kayiklik&count_private=true&hide_border=true&show_icons=true&theme=radical">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Enes-Kayiklik&count_private=true&hide_border=true&show_icons=true&theme=radical">
+        </a>
+        </td>
+        <td colspan="2" rowspan="2">
+        <a href="https://github-readme-streak-stats.herokuapp.com/?user=asimcanyagiz&hide_border=true&theme=radical">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=asimcanyagiz&hide_border=true&theme=radical">
+        </a>
+        </td>
+    </tr>
+</table>
