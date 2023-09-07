@@ -1,5 +1,5 @@
 ### Hello, Enes here! 👋
-I'm currently a Android Developer at <strong><a href="https://yoorbit.com/">Yoorbit</a></strong>. I am working on some side projects, learning a couple new technologies. I love solving problems and playing video games in my free time.
+I'm currently working as an Android Developer at <strong><a href="https://yoorbit.com/">Yoorbit</a></strong>. Also, I am working on some side projects, learning a couple of new technologies. I love solving problems and playing video games in my free time.
 
 ##  🛠 Tools I Use
 <p align="left">
